@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM service/자연어 검색 평가 방법 정리.md",
+                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM service/자연어 검색 평가 방법 정리.md",
+                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM service/자연어 검색 평가 방법 정리.md",
+                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM service/자연어 검색 평가 방법 정리.md"
+                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md"
               }
             }
           },
@@ -156,10 +156,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5379f5bb6f31ae3",
+  "active": "10dd53570ab906b7",
   "lastOpenFiles": [
-    "README.md",
     "LLM service/자연어 검색 평가 방법 정리.md",
+    "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
+    "LLM NEWS/Untitled.md",
+    "LLM NEWS/Gemini",
+    "LLM NEWS",
+    "README.md",
     "LLM service",
     "무제 폴더",
     "GIT (github)/Git 브랜치 동기화 및 관리 - Main에서 Develop 브랜치로의 변경 사항 적용.md",
