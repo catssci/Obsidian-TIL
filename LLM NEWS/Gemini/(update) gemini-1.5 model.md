@@ -12,5 +12,6 @@
 - Gemini-1.5-Flash-8B-Exp-0924 버전 출시
 -  텍스트와 멀티모달 작업에서 성능이 크게 향상
 
+
 # reference
 - https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/
