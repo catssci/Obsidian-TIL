@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10dd53570ab906b7",
+  "active": "f5379f5bb6f31ae3",
   "lastOpenFiles": [
     "LLM service/자연어 검색 평가 방법 정리.md",
     "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
