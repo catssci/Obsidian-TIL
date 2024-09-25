@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "944b90e5a491f4c4",
+        "id": "fcdbc97953cb2a9f",
         "type": "tabs",
         "children": [
           {
-            "id": "50c75381346369bc",
+            "id": "ca3bbbc3b88e8d79",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
-                "staged": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md"
+              }
             }
           },
           {
@@ -150,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ec6b8494859b334",
+  "active": "ca3bbbc3b88e8d79",
   "lastOpenFiles": [
     "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
     "LLM service/자연어 검색 평가 방법 정리.md",
