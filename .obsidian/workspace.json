@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
+                "file": "python/Template Method Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
+                "file": "python/Template Method Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
+                "file": "python/Template Method Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM NEWS/Gemini/(update) gemini-1.5 model.md"
+                "file": "python/Template Method Pattern.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   "active": "ca3bbbc3b88e8d79",
   "lastOpenFiles": [
     "LLM NEWS/Gemini/(update) gemini-1.5 model.md",
+    "python/Template Method Pattern.md",
+    "python",
     "LLM service/자연어 검색 평가 방법 정리.md",
     "LLM NEWS/Untitled.md",
     "LLM NEWS/Gemini",
