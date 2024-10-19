@@ -1,0 +1,75 @@
+﻿action,input,recommend
+recommend,"recent_goods = {'goodsnm': '시티보이 빅 오버핏 빅사이즈 옥스포드 셔츠 4 COLOR',
+                'goodsprc': 45900,
+                'brand': '언탭트 스튜디오',
+                'gender': '남',
+                'season': '2024 FW'}","recommend_resuts = [
+    {
+        'goodsnm': '시티보이 빅 오버핏 그라데이션 타탄 체크 셔츠 딥블루',
+        'goodsprc': 49957,
+        'brand': '언탭트 스튜디오',
+        'gender': '남',
+        'season': '2024 FW'
+    },
+    {
+        'goodsnm': '[SET]시티보이 빅오버핏 워시드 데님 셔츠 4Color',
+        'goodsprc': 85336,
+        'brand': '언탭트 스튜디오',
+        'gender': '남',
+        'season': '2025 ALL'
+    },
+    {
+        'goodsnm': 'YKK 이지 세미와이드 슬랙스 3Color',
+        'goodsprc': 46326,
+        'brand': '언탭트 스튜디오',
+        'gender': '남',
+        'season': '2025 ALL'
+    },
+    {
+        'goodsnm': 'KEYTH 핸드 크림 앳 허 아파트먼트 [GIFT 증정]',
+        'goodsprc': 35000,
+        'brand': '키스',
+        'gender': '여'
+    },
+    {
+        'goodsnm': '여성 클래식 데일리 백팩_WO1WCAA401',
+        'goodsprc': 79900,
+        'brand': '웨스트우드',
+        'gender': '여'
+    }
+]"
+search,query = '오버핏 옥스포트 셔츠',"recommend_resuts = [
+    {
+        'goodsnm': '시티보이 빅 오버핏 그라데이션 타탄 체크 셔츠 딥블루',
+        'goodsprc': 49957,
+        'brand': '언탭트 스튜디오',
+        'gender': '남',
+        'season': '2024 FW'
+    },
+    {
+        'goodsnm': '[SET]시티보이 빅오버핏 워시드 데님 셔츠 4Color',
+        'goodsprc': 85336,
+        'brand': '언탭트 스튜디오',
+        'gender': '남',
+        'season': '2025 ALL'
+    },
+    {
+        'goodsnm': 'YKK 이지 세미와이드 슬랙스 3Color',
+        'goodsprc': 46326,
+        'brand': '언탭트 스튜디오',
+        'gender': '남',
+        'season': '2025 ALL'
+    },
+    {
+        'goodsnm': 'KEYTH 핸드 크림 앳 허 아파트먼트 [GIFT 증정]',
+        'goodsprc': 35000,
+        'brand': '키스',
+        'gender': '여'
+    },
+    {
+        'goodsnm': '여성 클래식 데일리 백팩_WO1WCAA401',
+        'goodsprc': 79900,
+        'brand': '웨스트우드',
+        'gender': '여'
+    }
+]"
