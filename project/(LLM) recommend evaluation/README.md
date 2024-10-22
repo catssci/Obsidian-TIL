@@ -19,5 +19,16 @@
  	4. dataFrame 형태로 변환
 5. 평가 결과 종합
 	1. 점수 summary (총합, 분포)
+
+## input
+- test_data.csv 파일 참고
+| action | input | recommend |
+| --- | --- | --- |
+| recommend | 최근 본 상품 dictionary | 추천 결과 |
+| search | 쿼리 | 추천 결과 |
+
+## output
+- 평가 결과 json 형태로 반환
+
 ## To-do List
-- [ ] 
+- [ ] 평가 결과를 바탕으로 리랭킹 수행 (추후 다른 프로젝트로 진행)
